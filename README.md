@@ -8,4 +8,4 @@ Transition from On-premises SQL Database to Microsoft Fabric SQL Database for en
 Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 2022
 
 ### Process Flow
-<img width="621" alt="fabric-analytics-pipeline" src="https://github.com/user-attachments/assets/9da35cb7-1950-403d-b5c2-c19ee05440b8" />
+<img width="791" alt="Fabric-OnPremises-ETL" src="https://github.com/user-attachments/assets/963b06e9-883c-4d1d-91c7-bf4afbe5855d" />
