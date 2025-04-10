@@ -10,7 +10,7 @@ Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 
 ### Data Pipeline
 <img width="791" alt="Fabric-OnPremises-ETL" src="https://github.com/user-attachments/assets/963b06e9-883c-4d1d-91c7-bf4afbe5855d" />
 
-### Existing Environment
+### Scenario
 * Currently, the company’s core data resides in an on-premises SQL Server environment. The SQL database contains multiple schemas and a large number of tables.
 * The SQL database will also integrate with external systems, including third-party applications, file systems and, occasionally, APIs.
 * In the future, the data is expected to grow beyond its current size.
