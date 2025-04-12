@@ -5,7 +5,7 @@ This repository represents a real-world project. The information contained withi
 Transition from On-premises SQL Database to Microsoft Fabric SQL Database for enhanced analytics.
 
 ### Technologies
-Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 2022
+Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 2022, Fabric SQL Database
 
 ### Data Pipeline
 <img width="791" alt="Fabric-OnPremises-ETL" src="https://github.com/user-attachments/assets/963b06e9-883c-4d1d-91c7-bf4afbe5855d" />
@@ -18,3 +18,6 @@ Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 
 * During data ingestion, only lightweight data transformations are required. However, more complex transformations may be needed in the future.
 * The client organization wants to process the data on a schedule and incremental refresh.
 * They are also considering implementing the Medallion Architecture to improve data quality and consistency.
+
+### Article
+(https://medium.com/@zaw-may)
