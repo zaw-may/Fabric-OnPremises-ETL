@@ -20,4 +20,4 @@ Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 
 * They are also considering implementing the Medallion Architecture to improve data quality and consistency.
 
 ### Article
-(https://medium.com/@zaw-may)
+https://medium.com/@zaw-may
