@@ -19,5 +19,10 @@ Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 
 * The client organization wants to process the data on a schedule and incremental refresh.
 * They are also considering implementing the Medallion Architecture to improve data quality and consistency.
 
+### Prerequisite
+* SQL Server (including database tables you want to work with)
+* Fabric SQL Database (including already-created stored procedures - you need to change them based on your requirements)
+* On-premises data gateway (including a specific connection with your SQL Server)
+
 ### Article
-https://medium.com/@zaw-may
+[https://medium.com/@zaw-may](https://medium.com/@zaw-may/moving-on-premises-data-into-microsoft-fabric-data-stores-c03e0399fdfc)
