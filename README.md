@@ -8,7 +8,7 @@ Transition from On-premises SQL Database to Microsoft Fabric SQL Database for en
 Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 2022, Fabric SQL Database
 
 ### Data Pipeline
-<img width="791" alt="Fabric-OnPremises-ETL" src="https://github.com/user-attachments/assets/963b06e9-883c-4d1d-91c7-bf4afbe5855d" />
+<img width="753" alt="Z-Pipeline" src="https://github.com/user-attachments/assets/1537b5b8-f9d6-423a-82a0-8a8b3e297c68" />
 
 ### Scenario
 * Currently, the company’s core data resides in an on-premises SQL Server environment. The SQL database contains multiple schemas and a large number of tables.
