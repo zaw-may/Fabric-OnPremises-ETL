@@ -25,4 +25,4 @@ Microsoft Fabric Analytics, Data Pipeline, On-premises Data Gateway, SQL Server 
 * On-premises data gateway (including a specific connection with your SQL Server)
 
 ### Article
-[https://medium.com/@zaw-may](https://medium.com/@zaw-may/moving-on-premises-data-into-microsoft-fabric-data-stores-c03e0399fdfc)
+https://medium.com/@zaw-may/moving-on-premises-data-into-microsoft-fabric-data-stores-c03e0399fdfc
